@@ -1,0 +1,50 @@
+body{
+    background-image: url('./image/pap.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-transform: uppercase;
+}
+.project {
+    text-transform: lowercase;
+}
+*{
+    color: blanchedalmond;
+    border: 1px solid rosybrown;
+    box-sizing: border-box;
+}
+.sucess-message {
+    color: gray;
+    background-color: brown;
+    border: 2px solid green ;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+
+}
+.error-message {
+    color: gray;
+    background-color: brown;
+    border: 2px solid blue ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+.message{
+    border: 2px gold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    height: 200px;
+    width: 250px;
+    
+}
+header .item{
+    text-decoration: underline;
+}
